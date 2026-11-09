@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Excalidraw",
+    "repo": "excalidraw/excalidraw",
+    "repoUrl": "https://github.com/excalidraw/excalidraw",
+    "stars": 135346,
+    "license": "MIT",
+    "archived": false,
+    "pushedAt": "2026-11-08T08:18:35Z",
+    "observedAt": "2026-11-09T02:20:16.587Z",
+    "summaryKo": "손그림 느낌의 흐름도·업무 설명·아이디어 보드. Windows·macOS·Linux 등의 웹브라우저에서 설치·가입 없이 무료 편집, PNG/SVG 내보내기와 실시간 공동 작업이 가능하다.",
+    "cautionKo": "무료 편집기와 유료 Excalidraw+의 클라우드 작업공간·추가 공유 기능은 별개다. 정밀 제도보다 빠른 설명과 초안에 적합하며 중요한 작업은 파일로 내보내 보관하는 편이 좋다.",
+    "sourceUrls": [
+      "https://github.com/excalidraw/excalidraw",
+      "https://api.github.com/repos/excalidraw/excalidraw",
+      "https://www.makeuseof.com/making-diagrams-hand-drawn-style-tool/",
+      "https://plus.excalidraw.com",
+      "https://plus.excalidraw.com/blog/rethinking-virtual-whiteboard"
+    ]
+  },
+  {
+    "name": "RustDesk",
+    "repo": "rustdesk/rustdesk",
+    "repoUrl": "https://github.com/rustdesk/rustdesk",
+    "stars": 128692,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "pushedAt": "2026-11-08T16:52:59Z",
+    "observedAt": "2026-11-09T02:20:16.845Z",
+    "summaryKo": "다른 컴퓨터의 화면을 보고 원격 지원하는 도구. Windows·macOS·Linux·Android·iOS용 배포가 있으며, 오픈소스 클라이언트와 무료 자체 서버 구성이 가능하다.",
+    "cautionKo": "상대방 동의와 접속 권한 관리가 필수다. OS별 원격 제어 범위가 다르고 자체 서버 운영은 비개발자에게 어려울 수 있다. 웹 관리·주소록 등 Server Pro 기능과 서버 운영비는 무료 범위 밖이다. 소개 매체가 보안 논란을 경고하므로 별도 보안 검토 없이 업무용으로 도입하지 않는다.",
+    "sourceUrls": [
+      "https://github.com/rustdesk/rustdesk",
+      "https://api.github.com/repos/rustdesk/rustdesk",
+      "https://itsfoss.com/news/rustdesk/",
+      "https://rustdesk.com/pricing.html"
+    ]
+  },
+  {
+    "name": "LocalSend",
+    "repo": "localsend/localsend",
+    "repoUrl": "https://github.com/localsend/localsend",
+    "stars": 97952,
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushedAt": "2026-11-08T02:32:51Z",
+    "observedAt": "2026-11-09T02:20:17.115Z",
+    "summaryKo": "같은 로컬 네트워크의 휴대폰·컴퓨터 사이에 파일과 텍스트를 보내는 무료 도구. Windows·macOS·Linux·Android·iOS를 지원하며 계정이나 인터넷 중계 서버 없이 사용할 수 있다.",
+    "cautionKo": "인터넷을 통한 원격 파일 공유 서비스가 아니다. 두 기기를 같은 네트워크에 연결해야 하고 회사·공공 Wi-Fi의 기기 격리, 방화벽, 로컬 네트워크 권한에 막힐 수 있다.",
+    "sourceUrls": [
+      "https://github.com/localsend/localsend",
+      "https://api.github.com/repos/localsend/localsend",
+      "https://www.pcgamer.com/software/localsend-is-the-most-useful-app-ive-come-across-in-a-very-long-time-letting-me-share-files-across-devices-with-a-couple-clicks/",
+      "https://localsend.org"
+    ]
+  },
+  {
+    "name": "OBS Studio",
+    "repo": "obsproject/obs-studio",
+    "repoUrl": "https://github.com/obsproject/obs-studio",
+    "stars": 79193,
+    "license": "GPL-2.0",
+    "archived": false,
+    "pushedAt": "2026-11-06T00:42:53Z",
+    "observedAt": "2026-11-09T02:20:17.371Z",
+    "summaryKo": "화면·웹캠·마이크를 조합해 강의, 제품 시연, 실시간 방송을 만드는 무료 녹화·송출 프로그램. Windows·macOS·Linux를 지원한다.",
+    "cautionKo": "프로그램 자체는 무료지만 카메라·캡처 장비나 외부 방송 서비스 비용까지 포함하지 않는다. 장면·소스·오디오 설정을 익혀야 하며 녹화 권한과 컴퓨터 성능을 확인해야 한다. 일반적인 후반 영상 편집기는 아니다.",
+    "sourceUrls": [
+      "https://github.com/obsproject/obs-studio",
+      "https://api.github.com/repos/obsproject/obs-studio",
+      "https://www.techradar.com/reviews/obs-studio-2022",
+      "https://obsproject.com"
+    ]
+  },
+  {
+    "name": "AppFlowy",
+    "repo": "AppFlowy-IO/AppFlowy",
+    "repoUrl": "https://github.com/AppFlowy-IO/AppFlowy",
+    "stars": 78497,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "pushedAt": "2026-11-02T23:40:52Z",
+    "observedAt": "2026-11-09T02:20:17.689Z",
+    "summaryKo": "노트·할 일·프로젝트·위키를 한곳에 정리하는 Notion 대안. macOS·Windows·Linux·iOS·Android·웹을 지원한다. 오픈소스 앱과 무료 Personal 클라우드 요금제가 있다.",
+    "cautionKo": "모든 클라우드·AI·팀 기능이 무료인 것은 아니다. 유료 Pro와 상용 자체 호스팅 배포판은 별도 조건이며 자체 서버 설치·운영은 초보자에게 부담될 수 있다. Notion 기능·이전 호환성이 완전히 같다고 가정하지 않는다.",
+    "sourceUrls": [
+      "https://github.com/AppFlowy-IO/AppFlowy",
+      "https://api.github.com/repos/AppFlowy-IO/AppFlowy",
+      "https://itsfoss.com/appflowy",
+      "https://appflowy.com",
+      "https://appflowy.com/pricing"
+    ]
+  },
+  {
+    "name": "Upscayl",
+    "repo": "upscayl/upscayl",
+    "repoUrl": "https://github.com/upscayl/upscayl",
+    "stars": 52023,
+    "license": "AGPL-3.0",
+    "archived": false,
+    "pushedAt": "2026-10-05T19:13:12Z",
+    "observedAt": "2026-11-09T02:20:17.948Z",
+    "summaryKo": "작은 사진·일러스트의 해상도를 AI로 확대하는 무료 로컬 데스크톱 앱. Windows·macOS·Linux를 지원해 이미지 확대 작업을 단순화한다.",
+    "cautionKo": "Vulkan 호환 GPU가 필요하고 많은 내장 GPU나 CPU만으로는 동작하지 않는다. AI가 추정한 디테일이므로 원본 사실 복원이나 흐린 사진 복구를 보장하지 않는다. 별도 Upscayl Cloud는 체험 크레딧 이후 유료 상품이다.",
+    "sourceUrls": [
+      "https://github.com/upscayl/upscayl",
+      "https://api.github.com/repos/upscayl/upscayl",
+      "https://itsfoss.com/news/upscayl-version-1-release/",
+      "https://upscayl.org",
+      "https://upscayl.org/pricing"
+    ]
+  },
+  {
+    "name": "Buzz",
+    "repo": "chidiwilliams/buzz",
+    "repoUrl": "https://github.com/chidiwilliams/buzz",
+    "stars": 22522,
+    "license": "MIT",
+    "archived": false,
+    "pushedAt": "2026-11-07T06:06:20Z",
+    "observedAt": "2026-11-09T02:20:18.199Z",
+    "summaryKo": "Whisper 등을 이용해 음성·영상에서 받아쓰기와 자막 파일을 만드는 무료 오픈소스 데스크톱 앱. Windows·macOS·Linux를 지원하고 로컬 모델로 오프라인 처리할 수 있다.",
+    "cautionKo": "모델은 먼저 내려받아야 하며 처리 속도와 정확도는 하드웨어·언어·음질에 따라 달라진다. 한국어와 고유명사는 직접 검수해야 한다. 선택형 외부 API는 별도 요금·데이터 전송이 발생할 수 있어 오프라인 옵션과 구분한다. 동명의 그룹 채팅 서비스가 아닌 chidiwilliams/buzz다. 최신 macOS 빌드는 Apple Silicon 기준이며 Intel Mac 지원은 공식 README의 이전 버전 안내를 확인하세요.",
+    "sourceUrls": [
+      "https://github.com/chidiwilliams/buzz",
+      "https://api.github.com/repos/chidiwilliams/buzz",
+      "https://www.makeuseof.com/transcribed-interviews-offline-open-source-tool",
+      "https://chidiwilliams.github.io/buzz/docs"
+    ]
+  },
+  {
+    "name": "Screenity",
+    "repo": "alyssaxuu/screenity",
+    "repoUrl": "https://github.com/alyssaxuu/screenity",
+    "stars": 18967,
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushedAt": "2026-11-08T09:54:41Z",
+    "observedAt": "2026-11-09T02:20:18.458Z",
+    "summaryKo": "브라우저 탭·창·화면을 녹화하며 화살표·그림·블러를 넣는 Chrome/Chromium 확장. 데스크톱 Windows·macOS·Linux·ChromeOS의 지원 브라우저에서 쓰는 무료 로컬 녹화 도구다.",
+    "cautionKo": "무료 확장은 가입·워터마크·녹화 시간 제한 없이 로컬 저장하지만 기기 자원 한계는 있다. 클라우드 편집기·공유 링크는 계정과 별도 유료 업그레이드 영역이며 공식 안내상 7일 체험이다. 모바일 앱으로 혼동하지 않는다.",
+    "sourceUrls": [
+      "https://github.com/alyssaxuu/screenity",
+      "https://api.github.com/repos/alyssaxuu/screenity",
+      "https://sspai.com/post/87950",
+      "https://screenity.io/extension"
+    ]
+  },
+  {
+    "name": "Shotcut",
+    "repo": "mltframework/shotcut",
+    "repoUrl": "https://github.com/mltframework/shotcut",
+    "stars": 15632,
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushedAt": "2026-11-04T02:15:29Z",
+    "observedAt": "2026-11-09T02:20:18.711Z",
+    "summaryKo": "영상 자르기·이어붙이기·필터·오디오 조정을 위한 무료 오픈소스 영상 편집기. Windows·macOS·Linux에서 여러 영상 형식을 한 타임라인에 편집할 수 있다.",
+    "cautionKo": "기본 프로그램과 업그레이드는 무료다. 처음에는 패널·타임라인 방식에 익숙해져야 하고 고해상도 영상의 미리보기·출력 속도는 컴퓨터 성능에 좌우된다. 오래된 리뷰의 개별 오류를 현재 버전의 확정 오류로 보지는 않는다.",
+    "sourceUrls": [
+      "https://github.com/mltframework/shotcut",
+      "https://api.github.com/repos/mltframework/shotcut",
+      "https://www.techradar.com/reviews/shotcut-2203",
+      "https://www.shotcut.org"
+    ]
+  },
+  {
+    "name": "Krita",
+    "repo": "KDE/krita",
+    "repoUrl": "https://github.com/KDE/krita",
+    "stars": 10717,
+    "license": "GPL-3.0",
+    "archived": false,
+    "pushedAt": "2026-11-08T12:50:06Z",
+    "observedAt": "2026-11-09T02:20:18.985Z",
+    "summaryKo": "브러시·레이어 중심으로 그림, 웹툰, 일러스트를 만드는 무료 디지털 페인팅 앱. 공식 다운로드로 Windows·macOS·Linux에서 사용할 수 있다.",
+    "cautionKo": "공식 사이트 배포는 무료지만 Microsoft Store·Steam·Mac App Store 등의 버전은 유료일 수 있다. 사진 편집 만능 대체재보다는 드로잉에 적합하다. GitHub 저장소는 KDE가 제공하는 공식 미러이며 실제 개발 저장소는 KDE Invent이므로 별 수를 타 프로젝트와 단순 비교하지 않는다.",
+    "sourceUrls": [
+      "https://github.com/KDE/krita",
+      "https://api.github.com/repos/KDE/krita",
+      "https://opensource.com/life/16/4/nick-hamilton-linuxfest-northwest-2016-krita",
+      "https://krita.org/en/download",
+      "https://invent.kde.org/graphics/krita"
+    ]
+  }
+]
