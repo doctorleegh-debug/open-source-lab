@@ -1,0 +1,21 @@
+{
+  "title": "개발자·크리에이터를 위한 오픈소스 TOP10",
+  "version": 6,
+  "video": "open-source-top10-v6.mp4",
+  "durationSeconds": 227,
+  "bytes": 25110231,
+  "sha256": "eabd36badc91c436dde2ab955b7d71d78487cb3e3a62a4760ec275f707a5f851",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "codecs": [
+    "H.264",
+    "AAC"
+  ],
+  "assetSource": "Polyfork",
+  "assetCount": 6,
+  "assetLicense": "CC BY 4.0",
+  "expiresAt": "2026-12-09T02:24:20.405Z"
+}
