@@ -1,0 +1,4 @@
+3D models: Laptop by Polyfork (https://polyfork.dev/asset/laptop-e775ba), CC BY 4.0; Desk Monitor by Polyfork (https://polyfork.dev/asset/desk-monitor-32cfce), CC BY 4.0; Filing Cabinet by Polyfork (https://polyfork.dev/asset/filing-cabinet-f8a251), CC BY 4.0; Vintage Microphone Stand by Polyfork (https://polyfork.dev/asset/vintage-microphone-stand-c5ba82), CC BY 4.0; Conference Camera Bar by Polyfork (https://polyfork.dev/asset/conference-camera-bar-419e10), CC BY 4.0; Smartphone by Polyfork (https://polyfork.dev/asset/smartphone-5f05e5), CC BY 4.0. Models scaled, cloned, lit, material-adjusted and animated for this video. License https://creativecommons.org/licenses/by/4.0/ . Voice: Supertonic 3 F1 (synthetic preset). No real-person voice cloning.
+
+Music: Menu Music by wipics (CC0), https://opengameart.org/content/menu-music-1
+SFX: Interface Sounds by Kenney (CC0), https://kenney.nl/assets/interface-sounds
